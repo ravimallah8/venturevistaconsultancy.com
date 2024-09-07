@@ -44,7 +44,9 @@ const Home = (props) => {
               </span>
               <div className="home-container12">
                 <div className="home-container13">
-                  <PrimaryPinkButton button="contact us"></PrimaryPinkButton>
+                  <a href="tel:+91 900 466 3468">
+                    <PrimaryPinkButton button="contact us"></PrimaryPinkButton>
+                  </a>
                 </div>
                 <a href="#services-we-offer">
                   <OutlineGrayButton button="Services We Offer"></OutlineGrayButton>

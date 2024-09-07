@@ -14,13 +14,13 @@ const AboutUs = (props) => {
     <>
       <div className="profile-container10">
         <Head>
-          <title>AboutUs - Soft UI Pro</title>
-          <meta property="og:title" content="AboutUs - Soft UI Pro" />
+          <title>AboutUs - Venture Vista Consultancy</title>
+          <meta property="og:title" content="AboutUs - Ventur Vista Consultancy" />
         </Head>
         {/*TODO: ravi*/}
         <Header></Header>
         {/*<HeaderFull></HeaderFull>*/}
-        <div className="profile-profile">
+        {/* <div className="profile-profile">
           <img
             alt="image"
             src="/bruce-mars-200h.jpg"
@@ -94,7 +94,9 @@ const AboutUs = (props) => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
+
+
         <div className="profile-contact">
           <div className="profile-container19">
             <div className="profile-form1">

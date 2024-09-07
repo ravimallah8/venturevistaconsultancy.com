@@ -7,7 +7,7 @@ const Footer = (props) => {
         <div className="footer-container1">
           <div className="footer-container2">
             <span className="footer-text10">Venture Vista Consultancy Private Limited</span>
-            <span>Copyright © 2024 by Mukesh Mallah.</span>
+            <span>Copyright © 2024</span>
             <br/>
             <span>
               <a href="tel:+91 900 466 3468">
