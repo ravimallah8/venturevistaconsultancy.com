@@ -96,6 +96,11 @@ const AboutUs = (props) => {
           </div>
         </div> */}
 
+        <div className='profile-profile'>
+          <h4>
+            <u>Note:</u> We do not charge for our servies to customers. If any venture vista consultant personnel take any charges other than bank fees, please immediately contact us.
+          </h4>
+        </div>
 
         <div className="profile-contact">
           <div className="profile-container19">

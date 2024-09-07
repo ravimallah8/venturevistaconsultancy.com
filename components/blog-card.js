@@ -57,8 +57,8 @@ BlogCard.defaultProps = {
   description:
     'Finding temporary housing for your dog should be as easy as renting an Airbnb. That’s the idea behind Rover',
   newProp: 'Rover raised $65 million',
-  imageSrc:
-    'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/color-bags.jpg',
+  // imageSrc:
+    // 'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/color-bags.jpg',
 }
 
 BlogCard.propTypes = {

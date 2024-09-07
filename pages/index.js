@@ -222,7 +222,7 @@ const Home = (props) => {
                     friend, my world.&quot;
                   </span>
                 </p>
-                <p className="home-text34">Mukesh Mallah</p>
+                <p className="home-text34">Rakesh Chauhan</p>
                 <p className="home-text35 Small">CEO, Founder</p>
                 {/*<div className="home-container25">*/}
                 {/*  <img*/}
