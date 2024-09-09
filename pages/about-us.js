@@ -162,10 +162,10 @@ const AboutUs = (props) => {
                       <path d="M742 460l-94-94q-18-18-10-44 24-72 24-152 0-18 12-30t30-12h150q18 0 30 12t12 30q0 300-213 513t-513 213q-18 0-30-12t-12-30v-150q0-18 12-30t30-12q80 0 152-24 24-10 44 10l94 94q186-96 282-282z"></path>
                     </svg>
                     <a
-                      href="tel:+91 900 466 3468"
+                      href="tel:+91 720 828 3468"
                       className="profile-link1 Small"
                     >
-                      (+91) 900 466 3468
+                      (+91) 720 828 3468
                     </a>
                   </div>
                   <div className="profile-container25">

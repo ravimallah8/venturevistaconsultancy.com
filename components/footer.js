@@ -10,8 +10,8 @@ const Footer = (props) => {
             <span>Copyright © 2024 by Rakesh Chauhan</span>
             <br/>
             <span>
-              <a href="tel:+91 900 466 3468">
-                Phone No: (+91) 900 466 3468
+              <a href="tel:+91 720 828 3468">
+                Phone No: (+91) 720 828 3468
               </a>
             </span>
             <br/>

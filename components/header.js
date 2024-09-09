@@ -40,7 +40,7 @@ const Header = (props) => {
             </div>
             <div className="header-container2">
               <div className="header-container3">
-                <a href="tel:+91 900 466 3468">
+                <a href="tel:+91 720 828 3468">
                   <PrimaryPinkButton button="Contact now"></PrimaryPinkButton>
                 </a>
               </div>
