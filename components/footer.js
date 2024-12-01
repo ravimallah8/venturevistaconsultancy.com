@@ -7,11 +7,11 @@ const Footer = (props) => {
         <div className="footer-container1">
           <div className="footer-container2">
             <span className="footer-text10">Venture Vista Consultancy Private Limited</span>
-            <span>Copyright © 2024 by Rakesh Chauhan</span>
+            <span>Copyright © 2024 by Rohit</span>
             <br/>
             <span>
-              <a href="tel:+91 720 828 3468">
-                Phone No: (+91) 720 828 3468
+              <a href="tel:+91 730 446 0312">
+                Phone No: (+91) 730 446 0312
               </a>
             </span>
             <br/>
